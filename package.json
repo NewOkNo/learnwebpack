@@ -26,5 +26,9 @@
     "webpack": "^5.64.4",
     "webpack-cli": "^4.9.1",
     "webpack-dev-server": "^4.5.0"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "ws": "^8.3.0"
   }
 }
